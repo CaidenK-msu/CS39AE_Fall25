@@ -4,7 +4,7 @@ st.title("👋 My Bio")
 
 # ---------- TODO: Replace with your own info ----------
 NAME = "Caiden Kopcik"
-PROGRAM = "CS39 AE / Computer Science / Role"
+PROGRAM = "CS39 AE / Computer Science / Student"
 INTRO = (
     "I'm a full-stack developer and a computer science student currently learning about "
     "data visualization and human-centered design. I enjoy creating interactive visualizations "
@@ -16,7 +16,7 @@ FUN_FACTS = [
     "I want to build either an app and successful website that helps people in anyway possible (lifestyle wise).",
 ]
 
-PHOTO_PATH = "IMG_2159.jpg"  # Put a file in repo root or set a URL
+PHOTO_PATH = "streamlit_CS/assets/IMG_2159.jpg"  # Put a file in repo root or set a URL
 
 # ---------- Layout ----------
 col1, col2 = st.columns([1, 2], vertical_alignment="center")
